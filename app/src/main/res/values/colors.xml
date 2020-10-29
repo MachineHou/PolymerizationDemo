@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_000">#80000000</color>
+    <color name="color_fff">#fff</color>
+
+    <!--系统中经常用到的-->
+    <color name="text_1_color">#14151A</color>
+    <color name="text_2_color">#666666</color>
+    <color name="text_3_color">#999999</color>
+    <color name="title_color_phone">#616161</color>
+    <color name="title_color_gray">#f52d50</color>
+    <color name="system_text_black1">#14151A</color>
+    <color name="system_text_black2">#666666</color>
+    <color name="main_tone">#000000</color>
+    <color name="main_tones">#D8BE98</color>
+    <color name="hint_color">#c6c6c6</color>
+    <color name="color_dbdadd">#dbdadd</color>
+    <color name="color_f3f5f8">#F3F5F8</color>
+    <color name="transparent_gray">#90000000</color>
+    <color name="blue">#2A8EE3</color>
+    <color name="blue_2A">#332A8EE3</color>
+    <color name="orange">#FFE8A140</color>
+</resources>
